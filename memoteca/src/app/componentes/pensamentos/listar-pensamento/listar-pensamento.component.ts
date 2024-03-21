@@ -13,6 +13,11 @@ export class ListarPensamentoComponent {
       modelo: 'modelo2'
     },
     {
+      conteudo: 'Minha propriedade é decorada com @Input',
+      autoria: 'Componente filho',
+      modelo: 'modelo1'
+    },
+    {
       conteudo: 'Comunicação entre componentes',
       autoria: 'Angular',
       modelo: 'modelo2'
@@ -26,6 +31,11 @@ export class ListarPensamentoComponent {
       conteudo: 'Tente mover o mundo - o primeiro passo será mover a si mesmo.',
       autoria: 'Platão',
       modelo: 'modelo3'
-    }
+    },
+    {
+      conteudo: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem mollitia a repe.Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem mollitia a repe.Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem mollitia a repe.',
+      autoria: '',
+      modelo: 'modelo1'
+    },
   ];
 }
