@@ -12,7 +12,7 @@ export class CriarPensamentoComponent {
     pensamento: Pensamento = {
       conteudo: '',
       autoria: '',
-      modelo: 'modelo1'
+      modelo: ''
     }
 
     constructor(
