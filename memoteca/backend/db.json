@@ -1,22 +1,52 @@
 {
   "pensamentos": [
     {
-      "id":1,
-      "conteudo":"Que bom que voce veio",
-      "autoria":"Ramos",
-      "modelo":"modelo1"
+      "id": 1,
+      "conteudo": "Exige muito de ti e espera pouco dos outros. Assim, evitarás muitos aborrecimentos.",
+      "autoria": "Confúcio",
+      "modelo": "modelo1"
     },
     {
-      "id":2,
-      "conteudo":"Dia de Sol",
-      "autoria":"Santos",
-      "modelo":"modelo2"
+      "id": 2,
+      "conteudo": "E aqueles que foram vistos dançando foram julgados insanos por aqueles que não podiam escutar a música.",
+      "autoria": "Friedrich Nietzsche",
+      "modelo": "modelo2"
     },
     {
-      "id":3,
-      "conteudo":"Amanha é um outro dia",
-      "autoria":"Silva",
-      "modelo":"modelo3"
+      "id": 3,
+      "conteudo": "Vou-lhe dizer um grande segredo, meu caro. Não espere o juízo final. Ele realiza-se todos os dias.",
+      "autoria": "Albert Camus",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "O sábio nunca diz tudo o que pensa, mas pensa sempre tudo o que diz.",
+      "autoria": "Aristóteles",
+      "modelo": "modelo2",
+      "id": 5
+    },
+    {
+      "conteudo": "Só há um caminho para a felicidade. Não nos preocuparmos com coisas que ultrapassam o poder da nossa vontade.",
+      "autoria": "Epicuro",
+      "modelo": "modelo1",
+      "id": 6
+    },
+    {
+      "conteudo": "Felicidade é como uma borboleta: quanto mais você tenta apanhá-la, mais ela se afasta de você. Mas se você dirigir sua atenção para outras coisas, ela virá e pousará suavemente no seu ombro.",
+      "autoria": "Henry Thoreau",
+      "modelo": "modelo1",
+      "id": 7
+    },
+    {
+      "conteudo": "A filosofia é a que nos distingue dos selvagens e bárbaros; as nações são tanto mais civilizadas e cultas quanto melhor filosofam seus homens.",
+      "autoria": "René Descartes",
+      "modelo": "modelo2",
+      "id": 8
+    },
+    {
+      "conteudo": "We are the champions!",
+      "autoria": "",
+      "modelo": "modelo1",
+      "id": 9
     }
   ]
 }
